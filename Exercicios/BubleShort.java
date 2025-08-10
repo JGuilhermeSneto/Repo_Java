@@ -1,3 +1,4 @@
+package Exercicios;
 public class BubleShort {
     public static void main(String[] args) {
         int[] vetor = {2,8,5,3,9};

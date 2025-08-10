@@ -1,8 +1,9 @@
+package Exercicios;
 public class teste {
     public static void main(String[] args) {
         int cont;
         int rest;
-        int x;
+        int x = 0;
         int n = 0;
 
 
