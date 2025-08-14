@@ -1,4 +1,4 @@
-package Exercicios;
+package Exercicios_de_Logica;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

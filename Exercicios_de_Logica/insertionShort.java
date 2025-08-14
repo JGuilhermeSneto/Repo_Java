@@ -1,4 +1,4 @@
-package Exercicios;
+package Exercicios_de_Logica;
 public class insertionShort {
     public static void main(String[] args) {
         int[] vetor = {4,2,7,1,3};

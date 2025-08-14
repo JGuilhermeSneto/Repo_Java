@@ -1,4 +1,4 @@
-package Exercicios;
+package Exercicios_de_Logica;
 public class teste {
     public static void main(String[] args) {
         int cont;

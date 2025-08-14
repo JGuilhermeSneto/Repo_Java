@@ -1,4 +1,4 @@
-package Exercicios;
+package Exercicios_de_Logica;
 public class SelectionShort {
     public static void main(String[] args) {
         int[] vetor = {3,4,7,2,5,8,1,9};

@@ -1,4 +1,4 @@
-package Exercicios;
+package Exercicios_de_Logica;
 import java.util.Scanner;
 
 public class para {
