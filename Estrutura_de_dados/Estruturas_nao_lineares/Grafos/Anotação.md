@@ -61,7 +61,6 @@ public class GrafoListaAdj {
     }
 }
 Exemplo usando Matriz de Adjacência
-java
 
 public class GrafoMatrizAdj {
     private int[][] matriz;
