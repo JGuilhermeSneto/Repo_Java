@@ -43,9 +43,7 @@ public class PilhaExemplo {
     }
 }
 Exemplo de implementação manual de Pilha
-java
-Copiar
-Editar
+
 public class PilhaArray {
     private int[] elementos;
     private int topo;
