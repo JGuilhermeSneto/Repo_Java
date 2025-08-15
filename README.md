@@ -48,7 +48,7 @@ Registro do meu aprendizado em programação com Java.
 
 Material de estudo e consulta para quem está aprendendo.
 
-Base para revisões rápidas antes de provas e entrevistas.
+Base para revisões rápidas antes de provas.
 ---
 📌 Observações
 Os exercícios estão comentados e organizados por tema.
