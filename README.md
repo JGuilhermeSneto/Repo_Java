@@ -12,8 +12,7 @@ O repositório está organizado em pastas temáticas para facilitar a navegaçã
 - **01-Exercicios_de_Logica** → Exercícios básicos para fixar fundamentos da linguagem e raciocínio lógico.
 - **02-POO** → **Herança**, **Polimorfismo**, **Encapsulamento**.
 - **03-Estruturas_de_Dados** → Listas, pilhas, filas, árvores, grafos e tabelas hash e etc.
-
-- Prentendo Subir uma pasta para back-end voltado a java com **Spring Bot**.
+- **04-Back-end** → Criação de um back-end java com Spring boot.
 
 
 ---
