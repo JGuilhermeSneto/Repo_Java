@@ -1,6 +1,6 @@
 # Exercícios de Lógica em Java, POO e Estruturas de Dados
 
-Bem-vindo(a) ao meu repositório!  
+**Bem-vindo(a) ao meu repositório!** 
 Aqui você encontrará desde exercícios simples de **lógica de programação** em **Java** até conteúdos mais avançados de **Programação Orientada a Objetos (POO)** e **Estruturas de Dados**.
 
 ---
@@ -20,7 +20,7 @@ O repositório está organizado em pastas temáticas para facilitar a navegaçã
 ## 🛠 Tecnologias Utilizadas
 
 - **Linguagem:** Java ☕
-- **IDE sugerida:** IntelliJ IDEA ou VS Code
+- **IDE sugerida:** IntelliJ IDEA ou VS Code ou uma de sua preferência.
 - **JDK:** Versão 17+ (recomendado)
 
 ---
@@ -32,15 +32,9 @@ O repositório está organizado em pastas temáticas para facilitar a navegaçã
    git clone https://github.com/JGuilhermeSneto/Repo_Java
 Abra na sua IDE favorita
 
-Compile e execute
-
-javac NomeDoArquivo.java
-
-
-java NomeDoArquivo
-
+Compile e execute.
 ---
-🎯 Objetivo
+🎯 **Objetivo**
 Este repositório serve como:
 
 Registro do meu aprendizado em programação com Java.
@@ -49,13 +43,13 @@ Material de estudo e consulta para quem está aprendendo.
 
 Base para revisões rápidas antes de provas.
 ---
-📌 Observações
+📌 **Observações**
 Os exercícios estão comentados e organizados por tema.
 
 Alguns exemplos possuem mais de uma solução.
 
 Estruturas de dados são implementadas do zero para reforçar o entendimento.
 ---
-📄 Licença
+📄 **Licença**
 Este repositório é de uso livre para fins de estudo e aprendizado.
 Sinta-se à vontade para clonar, modificar e compartilhar.

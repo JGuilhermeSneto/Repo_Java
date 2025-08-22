@@ -1,11 +1,11 @@
 package POO.exercicios;
 
-public class ContaBancPOO {
+public class ContaBanc {
     private String numeroConta;
     private double saldo;
 
 
-    public ContaBancPOO(String numeroConta, double saldo){
+    public ContaBanc(String numeroConta, double saldo){
         this.numeroConta = numeroConta;
         this.saldo = saldo;
     }
@@ -32,7 +32,7 @@ public class ContaBancPOO {
 
 
     public static void main(String[] args) {
-        ContaBancPOO contaBancaria = new ContaBancPOO("12345678", 10000);
+        ContaBanc contaBancaria = new ContaBanc("12345678", 10000);
         contaBancaria.Depositar(600.00);
         contaBancaria.Sacar(300);
         System.out.println("Mostrar saldo" + contaBancaria.getSaldo());
