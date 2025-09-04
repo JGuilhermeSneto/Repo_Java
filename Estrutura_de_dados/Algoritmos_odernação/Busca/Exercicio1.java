@@ -3,25 +3,18 @@ import java.util.Scanner;
 public class Exercicio1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        
-        int vetor[] = new int[10];
+
+        int[] vetor = {10,20,30,40,50};
         int chave;
 
-        vetor[0] = 10;
-        vetor[1] = 20;
-        vetor[2] = 30;
-        vetor[3] = 40;
-        vetor[4] = 50;
-        
-        System.out.println("Digite um número que deseja buscar: ");
+        System.out.println("Digite o número que deseja buscar: ");
         chave = sc.nextInt();
 
-        for(int i = 0; i < 4; i++){
-            if(vetor[i] == chave){
+        for(int i = 0; i < vetor.length; i++){
+            if (vetor[i] == chave) {
                 System.out.println("Elemento encontrado na posição: " + i);
                 break;
             }
         }
-
     }
 }
