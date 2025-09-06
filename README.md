@@ -1,55 +1,96 @@
-# Exercícios de Lógica em Java, POO e Estruturas de Dados
+# 🌟 Repositório de Aprendizado em Java, POO e Estruturas de Dados  
 
-**Bem-vindo(a) ao meu repositório!** 
-Aqui você encontrará desde exercícios simples de **lógica de programação** em **Java** até conteúdos mais avançados de **Programação Orientada a Objetos (POO)** e **Estruturas de Dados**.
-
----
-
-## 📚 Conteúdo
-
-O repositório está organizado em pastas temáticas para facilitar a navegação. Siga a ordem das pastas para ter boas práticas sem pular estágios:
-
-- **01-Exercicios_de_Logica** → Exercícios básicos para fixar fundamentos da linguagem e raciocínio lógico.
-- **02-POO** → **Herança**, **Polimorfismo**, **Encapsulamento**.
-- **03-Estruturas_de_Dados** → Listas, pilhas, filas, árvores, grafos e tabelas hash e etc.
-- **04-Back-end** → Criação de um back-end java com Spring boot.
-
+> 📚 Repositório dedicado ao meu aprendizado contínuo em **Java**.  
+> Inclui desde exercícios básicos até implementações avançadas de **POO** e **Estruturas de Dados**, além de projetos em **Spring Boot**.  
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 📌 Estrutura do Repositório  
 
-- **Linguagem:** Java ☕
-- **IDE sugerida:** IntelliJ IDEA ou VS Code ou uma de sua preferência.
-- **JDK:** Versão 17+ (recomendado)
+O conteúdo está organizado de forma progressiva para facilitar o aprendizado:  
+
+### 1️⃣ Exercícios de Lógica  
+- Fundamentos de programação  
+- Condicionais, loops e arrays  
+- Recursão e algoritmos básicos  
+
+### 2️⃣ Programação Orientada a Objetos (POO)  
+- Classes, objetos e encapsulamento  
+- Herança, polimorfismo e abstração  
+- Exercícios práticos de modelagem  
+
+### 3️⃣ Estruturas de Dados  
+- Listas, Pilhas e Filas  
+- Árvores e Grafos  
+- Tabelas Hash implementadas do zero  
+
+### 4️⃣ Back-end com Spring Boot  
+- Mini-projetos CRUD  
+- Persistência de dados  
+- Boas práticas de arquitetura  
 
 ---
 
-## 🚀 Como Executar os Exercícios
+## 🛠 Tecnologias Utilizadas  
 
-1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/JGuilhermeSneto/Repo_Java
-Abra na sua IDE favorita
+- ☕ **Java (JDK 17+)**  
+- 🧩 **POO aplicada em exemplos reais**  
+- 🌱 **Spring Boot** para projetos back-end  
+- 🛠 **Ferramentas:** Git, GitHub, Maven  
+- 💻 **IDEs recomendadas:** IntelliJ IDEA, VS Code  
 
-Compile e execute.
 ---
-🎯 **Objetivo**
-Este repositório serve como:
 
-Registro do meu aprendizado em programação com Java.
+## 🚀 Como Executar  
 
-Material de estudo e consulta para quem está aprendendo.
+```bash
+# 1. Clone o repositório
+git clone https://github.com/JGuilhermeSneto/Repo_Java
 
-Base para revisões rápidas antes de provas.
----
-📌 **Observações**
-Os exercícios estão comentados e organizados por tema.
+# 2. Acesse a pasta
+cd Repo_Java
+➡️ Em seguida:
 
-Alguns exemplos possuem mais de uma solução.
+Abra o projeto em sua IDE favorita
 
-Estruturas de dados são implementadas do zero para reforçar o entendimento.
----
-📄 **Licença**
+Compile e execute os arquivos .java
+
+Para projetos Spring Boot, use:
+mvn spring-boot:run
+
+```
+
+## 🎯 Objetivos
+
+✔ Reforçar fundamentos de programação
+
+✔ Consolidar conceitos de POO
+
+✔ Implementar estruturas de dados do zero
+
+✔ Praticar desenvolvimento back-end com Spring Boot
+
+✔ Criar um material de consulta rápida e organizado
+
+## 📖 Observações
+
+Os exercícios possuem comentários explicativos
+
+Algumas questões têm múltiplas soluções
+
+Estruturas de dados feitas manualmente para fixar lógica
+
+Repositório em constante evolução ✨
+
+## 🔗 Links Úteis
+
+Documentação Java 17
+
+Spring Boot
+
+Meu GitHub
+
+## 📄 Licença
+
 Este repositório é de uso livre para fins de estudo e aprendizado.
 Sinta-se à vontade para clonar, modificar e compartilhar.
