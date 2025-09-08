@@ -39,8 +39,6 @@ Não é necessário instalar servidor (Tomcat, Jetty, Undertow já vêm prontos)
 
 Basta rodar o main da aplicação.
 
-java
-Copiar código
 @SpringBootApplication
 public class App {
     public static void main(String[] args) {
@@ -69,8 +67,6 @@ Model/Entity → classes que representam tabelas.
 
 Exemplo de API REST simples:
 
-java
-Copiar código
 @RestController
 @RequestMapping("/produtos")
 public class ProdutoController {
@@ -91,7 +87,7 @@ public class ProdutoController {
         return service.salvar(produto);
     }
 }
-📊 Principais Dependências
+##📊 Principais Dependências
 spring-boot-starter-web → cria APIs REST com Tomcat embutido.
 
 spring-boot-starter-data-jpa → integração com bancos de dados.
@@ -109,7 +105,7 @@ Importar no IDE (IntelliJ, Eclipse, VS Code).
 
 Rodar a aplicação com mvn spring-boot:run ou pelo método main.
 
-📚 Vantagens
+## 📚 Vantagens
 Produtividade alta (menos configuração manual).
 
 Comunidade grande e muita documentação.
@@ -120,7 +116,7 @@ Integração com bancos SQL e NoSQL.
 
 Deploy facilitado (JAR executável com servidor embutido).
 
-🧠 Dicas de Estudo
+## 🧠 Dicas de Estudo
 Comece com projetos simples (CRUD REST API).
 
 Entenda bem as camadas (Controller, Service, Repository).
