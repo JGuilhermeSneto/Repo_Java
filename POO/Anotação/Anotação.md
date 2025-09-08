@@ -10,7 +10,7 @@ Os 3 pilares mais importantes são:
 - Isso é feito com **modificadores de acesso** (`private`, `protected`, `public`) e **métodos getters e setters**.  
 
 📌 Exemplo simples:
-```java
+
 public class Pessoa {
     private String nome; // atributo encapsulado
 

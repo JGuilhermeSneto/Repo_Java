@@ -11,7 +11,7 @@ Lógica de programação é o **conjunto de regras e procedimentos** usados para
 
 ### 1. Variáveis e Tipos de Dados
 
-```java
+
 int idade = 25;         // Número inteiro
 double salario = 3500.50; // Número decimal
 String nome = "Zeka";    // Texto
@@ -20,7 +20,6 @@ boolean ativo = true;      // Verdadeiro ou falso
 
 ### 2. Estruturas Condicionais
 
-```java
 int idade = 18;
 if (idade >= 18) {
     System.out.println("Maior de idade");
@@ -47,7 +46,7 @@ while (j < 5) {
 
 ### 4. Funções / Métodos
 
-```java
+
 public class Main {
     static int somar(int a, int b) {
         return a + b;
